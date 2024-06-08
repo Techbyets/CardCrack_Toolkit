@@ -18,7 +18,7 @@ Make sure you have Python installed on your system. You can install Python from 
 
 1. **Install necessary packages:**
 
-    If you're using a Debian-based system (like Ubuntu , termux), run:
+    If you're using a Debian-based system (termux), run:
 
     ```bash
     apt update
@@ -39,7 +39,7 @@ Make sure you have Python installed on your system. You can install Python from 
 1. **Run the script:**
 
     ```bash
-    python3 cardcrack_toolkit.py
+    python cardcrack_toolkit.py
     ```
 
 2. **Follow the prompts:**
