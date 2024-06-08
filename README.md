@@ -1,4 +1,3 @@
-```
 # CardCrack Toolkit
 
 CardCrack Toolkit is a Python tool designed to generate realistic credit card and personal information for testing and development purposes.
@@ -90,4 +89,3 @@ For more tools and updates, visit my [GitHub](https://github.com/Techbyets). You
 ## Disclaimer
 
 This tool is intended for educational and testing purposes only. Do not use the generated information for any illegal activities.
-```
