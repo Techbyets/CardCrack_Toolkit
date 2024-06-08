@@ -16,21 +16,22 @@ Make sure you have Python installed on your system. You can install Python from 
 
 ## Installation
 
-1. **Clone the repository:**
+1. **Install necessary packages:**
+
+    If you're using a Debian-based system (like Ubuntu , termux), run:
+
+    ```bash
+    apt update
+    apt upgrade
+    apt install python
+    apt install git
+    ```
+
+2. **Clone the repository:**
 
     ```bash
     git clone https://github.com/Techbyets/CardCrack_Toolkit.git
     cd CardCrack_Toolkit
-    ```
-
-2. **Install necessary packages:**
-
-    If you're using a Debian-based system (like Ubuntu), run:
-
-    ```bash
-    sudo apt update
-    sudo apt upgrade
-    sudo apt install python3
     ```
 
 ## Usage
@@ -49,7 +50,7 @@ Make sure you have Python installed on your system. You can install Python from 
 
 ## Example Output
 
-```plaintext
+plaintext
 =======================================
     Card Information Generated Successfully
 =======================================
@@ -76,7 +77,7 @@ Billing Address: Main Street, Rivertown, CA, 40684, United States
 Email Address: alex.smith@sample.com
 
 Phone Number: +1 (555) 735-4323
-```
+
 
 ## Contributing
 
