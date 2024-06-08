@@ -39,7 +39,7 @@ Make sure you have Python installed on your system. You can install Python from 
 1. **Run the script:**
 
     ```bash
-    python cardcrack_toolkit.py
+    python CardCrack_toolkit.py
     ```
 
 2. **Follow the prompts:**
